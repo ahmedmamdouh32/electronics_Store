@@ -38,7 +38,7 @@
 <br>
 
 <h3>Project execution steps :</h3>
-<p>1- first thing the user presses on a button.
+<p>1- first thing the user clicks on a button.
     <br>2- the key is programmed to run a method written in the BLL layer, this method takes the name of procedure(1) to be executed by the server.
     <br>3- then the called method start calling another method in the DAL layer to make a connection between the application and the server and also to handle the procedure and execute it on the level of the server.
     <br>4- The server execute the procedure and return its data back to DAL
@@ -46,3 +46,4 @@
     <br>6- then at the end the data become ready to be displayed on th screen through the UI layer 
 </p>
 
+<p>(1) : procedures are sub-routines that the server executes and store them inside it.</p>
