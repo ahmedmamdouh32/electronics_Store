@@ -53,5 +53,13 @@
 <br>
 
 <h3>Here is a view of the UI :</h3>
-<img src="https://github.com/ahmedmamdouh32/electronics_Store/blob/master/App_Screen/View1.PNG?raw=true" alt="View1" width = 50%>
-<img src="https://github.com/ahmedmamdouh32/electronics_Store/blob/master/App_Screen/View2.PNG?raw=true" alt="View2" width = 50%>
+<table style="width: 100%; border="1"">
+    <tr>
+        <td>
+            <img src="https://github.com/ahmedmamdouh32/electronics_Store/blob/master/App_Screen/View1.PNG?raw=true" alt="View1"  >
+        </td>
+        <td>
+            <img src="https://github.com/ahmedmamdouh32/electronics_Store/blob/master/App_Screen/View2.PNG?raw=true" alt="View2" >
+        </td>
+    </tr>
+</table>
