@@ -47,3 +47,11 @@
 </p>
 
 <p>(1) : procedures are sub-routines that the server executes and store them inside it.</p>
+
+<br>
+<br>
+<br>
+
+<h3>Here is a view of the UI :</h3>
+<img src="https://github.com/ahmedmamdouh32/electronics_Store/blob/master/App_Screen/View1.PNG?raw=true" alt="View1" width = 50%>
+<img src="https://github.com/ahmedmamdouh32/electronics_Store/blob/master/App_Screen/View2.PNG?raw=true" alt="View2" width = 50%>
